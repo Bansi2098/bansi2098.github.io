@@ -66,3 +66,5 @@ Prepare:
 
 # Result
 ![Rosemary topped focaccia](/assets/focaccia/rosemary_focaccia.jpg)
+
+[See method](#method)
