@@ -84,7 +84,7 @@ Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 18. Let cool on a rack for an hour.
 
 # Result
-![Sourdough boule](/assets/sourdough/result.jpg)
+![Sourdough boule](/assets/sourdough/baked.jpg)
 
 # Notes
 <a name="Scoring">1</a>: ![Scored dough](/assets/sourdough/scoring.jpg)
