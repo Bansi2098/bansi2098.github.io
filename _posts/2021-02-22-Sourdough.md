@@ -65,7 +65,19 @@ Prepare:
 Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 
 1. Autolyse the dough. What this means: mix all of the flour (400 g bread and 50 g WW) with all but 25 g of the water until there are no dry spots. Cover and leave for an hour.
-2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water
+2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the salt. If your dough feels very wet, do not add all of this water.
+3. Slap and fold the dough until it comes together.
+4. Cover and rest at around 78F/25C. Warm places for your dough to rest include: inside your oven with the light on, inside an oven that has been on for 30 seconds, in direct sunlight.
+5. Stretch and fold the dough 3 times at 30 minute intervals, starting 30 minutes after the last step.
+6. Let the dough rest 2-3 hours at 78F/25C.
+7. Dump the dough onto your floured counter and shape. Fold the top of the dough into the middle, then overlap the left and right sides of the dough, then fold the bottom of the dough into the middle. Then turn over, wipe away the flour, and drag the dough along the counter on each side until it is a tight boule.
+8. Cover and rest 20 minutes.
+9. The dough should have slightly flattened during the rest. If it seems too flat, drag it around until it looks perky again.
+10. Dust the top of the dough with a mix of bread flour and white rice flour. Dust a cloth with the same mix of flour. Place the dough, smooth side down, on the cloth. Move the cloth to a mixing bowl with the approximate desired shape of your final dough.
+11. Cover with plastic and rest 20 minutes.
+12. Refrigerate. You can refrigerate for anywhere between several hours and 2 days. I prefer an overnight rest.
+13. After refrigeration, heat your oven to 460F/238C. Place the pot you are going to cook the dough in inside the oven. This can be a Dutch oven, cast-iron combo cooker, casserole dish with cover, oven safe pot, or even a baking sheet with an overturned bowl. I use a casserole dish.
+14. When the oven is close to ready, tip your dough out onto a parchment paper. Score it
 
 # Result
 ![Rosemary topped focaccia](/assets/focaccia/rosemary_focaccia.jpg)
