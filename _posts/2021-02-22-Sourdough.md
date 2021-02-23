@@ -1,6 +1,6 @@
 ---
 title: "Sourdough Boule"
-tags: tag
+tags: Sourdough
 ---
 This recipe will ruin your life.
 
