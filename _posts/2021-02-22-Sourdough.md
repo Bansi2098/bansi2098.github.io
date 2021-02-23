@@ -78,7 +78,7 @@ Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 12. Refrigerate. You can refrigerate for anywhere between several hours and 2 days. I prefer an overnight rest.
 13. After refrigeration, heat your oven to 460F/238C (convection). Place the pot you are going to cook the dough in inside the oven. This can be a Dutch oven, cast-iron combo cooker, casserole dish with cover, oven safe pot, or even a baking sheet with an overturned bowl. I use a casserole dish.
 14. When the oven is close to ready, tip your dough out onto a parchment paper. Wet your hand and gently dampen the dough. Then sift a slight layer of a 50/50 bread flour/white rice flour mix over the dough and spread it evenly with your hand. Then will create a nice contrast between the dark crust and the white scoring patterns.
-15. Score the dough with a razor blade or sharp knife. My preferred scoring pattern is the windowpane<sup>[1](#Scoring)</sup>.
+15. Score the dough with a razor blade or sharp knife. My preferred scoring pattern is the windowpane<sup name="Scoring">[1](#f1)</sup>
 16. Place the dough on the parchment paper into your heated pot. Optional: spritz some water on the sides of the pot to create steam for a better crust. Put the lid on the pot and place in the oven for 20 minutes.
 17. After 20 minutes, lower the temperature to 425F/218C (convection) and remove the lid from the pot. Bake for 20-30 minutes until the crust is a dark brown.
 18. Let cool on a rack for an hour.
@@ -87,4 +87,4 @@ Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 ![Sourdough boule](/assets/sourdough/baked.jpg)
 
 # Notes
-<a name="Scoring">1</a>: ![Scored dough](/assets/sourdough/scoring.jpg)
+<b id="f1">1</b> ![Scored dough](/assets/sourdough/scoring.jpg) [↩](#Scoring)
