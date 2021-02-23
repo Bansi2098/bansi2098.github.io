@@ -63,14 +63,14 @@ You will want 100 g of 100% hydration levain at its peak to begin this recipe. I
 
 # Method
 Prepare:
-Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
+Make the levain in advance. Begin this recipe when it is 1 hour away from its peak.
 
 1. Autolyse the dough. What this means: mix all of the flour (400 g bread and 50 g WW) with all but 25 g of the water until there are no dry spots. Cover and leave for an hour.
-2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the salt. If your dough feels very wet, do not add all of this water.
+2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the 9 g salt. If your dough feels very wet, do not add all of the water.
 3. Slap and fold the dough until it comes together.
 4. Cover and rest at around 78F/25C. Warm places for your dough to rest include: inside your oven with the light on, inside an oven that has been on for 30 seconds, in direct sunlight.
 5. Stretch and fold the dough 3 times at 30 minute intervals, starting 30 minutes after the last step.
-6. Let the dough rest 2-3 hours at 78F/25C.
+6. Let the dough rest 2-3 hours at 78F/25C. You will know it is ready for the next step when small bubbles appear on the surface and sides of the bowl, and the dough jiggles when you shake the bowl.
 7. Dump the dough onto your floured counter and shape. Fold the top of the dough into the middle, then overlap the left and right sides of the dough, then fold the bottom of the dough into the middle. Then turn over, wipe away the flour, and drag the dough along the counter on each side until it is a tight boule.
 8. Cover and rest 20 minutes.
 9. The dough should have slightly flattened during the rest. If it seems too flat, drag it around until it looks perky again.
