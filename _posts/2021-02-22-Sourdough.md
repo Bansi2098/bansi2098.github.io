@@ -1,6 +1,6 @@
 ---
 title: "Sourdough Boule"
-tags: tag
+tags: Sourdough
 ---
 This recipe will ruin your life.
 
@@ -8,6 +8,7 @@ This recipe will ruin your life.
 Total: 24 hours
 - 6 h 40 m of bulk fermentation
 - Overnight proof in the refrigerator
+- 40-50 m bake
 You will want 100 g of 100% hydration levain at its peak to begin this recipe. I usually do an overnight feed.
 
 # Yield
@@ -62,14 +63,14 @@ You will want 100 g of 100% hydration levain at its peak to begin this recipe. I
 
 # Method
 Prepare:
-Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
+Make the levain in advance. Begin this recipe when it is 1 hour away from its peak.
 
 1. Autolyse the dough. What this means: mix all of the flour (400 g bread and 50 g WW) with all but 25 g of the water until there are no dry spots. Cover and leave for an hour.
-2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the salt. If your dough feels very wet, do not add all of this water.
+2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the 9 g salt. If your dough feels very wet, do not add all of the water.
 3. Slap and fold the dough until it comes together.
 4. Cover and rest at around 78F/25C. Warm places for your dough to rest include: inside your oven with the light on, inside an oven that has been on for 30 seconds, in direct sunlight.
 5. Stretch and fold the dough 3 times at 30 minute intervals, starting 30 minutes after the last step.
-6. Let the dough rest 2-3 hours at 78F/25C.
+6. Let the dough rest 2-3 hours at 78F/25C. You will know it is ready for the next step when small bubbles appear on the surface and sides of the bowl, and the dough jiggles when you shake the bowl.
 7. Dump the dough onto your floured counter and shape. Fold the top of the dough into the middle, then overlap the left and right sides of the dough, then fold the bottom of the dough into the middle. Then turn over, wipe away the flour, and drag the dough along the counter on each side until it is a tight boule.
 8. Cover and rest 20 minutes.
 9. The dough should have slightly flattened during the rest. If it seems too flat, drag it around until it looks perky again.
@@ -78,7 +79,7 @@ Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 12. Refrigerate. You can refrigerate for anywhere between several hours and 2 days. I prefer an overnight rest.
 13. After refrigeration, heat your oven to 460F/238C (convection). Place the pot you are going to cook the dough in inside the oven. This can be a Dutch oven, cast-iron combo cooker, casserole dish with cover, oven safe pot, or even a baking sheet with an overturned bowl. I use a casserole dish.
 14. When the oven is close to ready, tip your dough out onto a parchment paper. Wet your hand and gently dampen the dough. Then sift a slight layer of a 50/50 bread flour/white rice flour mix over the dough and spread it evenly with your hand. Then will create a nice contrast between the dark crust and the white scoring patterns.
-15. Score the dough with a razor blade or sharp knife. My preferred scoring pattern is the windowpane<sup>[1](#Scoring)</sup>.
+15. Score the dough with a razor blade or sharp knife. My preferred scoring pattern is the windowpane<sup id="Scoring">[1](#Footnote)</sup>.
 16. Place the dough on the parchment paper into your heated pot. Optional: spritz some water on the sides of the pot to create steam for a better crust. Put the lid on the pot and place in the oven for 20 minutes.
 17. After 20 minutes, lower the temperature to 425F/218C (convection) and remove the lid from the pot. Bake for 20-30 minutes until the crust is a dark brown.
 18. Let cool on a rack for an hour.
@@ -87,4 +88,4 @@ Make the levain in advance. Begin this recipe when it is 1 hour from its peak.
 ![Sourdough boule](/assets/sourdough/baked.jpg)
 
 # Notes
-<a name="Scoring">1</a>: ![Scored dough](/assets/sourdough/scoring.jpg)
+<b id="Footnote">1</b> ![Scored dough](/assets/sourdough/scoring.jpg) [↩](#Scoring)
