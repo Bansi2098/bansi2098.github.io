@@ -81,9 +81,11 @@ Prepare:
 {% capture summary %}Here's an accordion{% endcapture %}
 {% include details.html %}
 {:start="2"}
-2. Mix in the salt.
+2. Mix in the salt.<sup id="Scoring">[1](#Footnote)</sup>.
 
 # Result
 ![Rosemary topped focaccia](/assets/focaccia/rosemary_focaccia.jpg)
 
 [See method](#method)
+
+<b id="Footnote">1</b> ![Scored dough](/assets/sourdough/scoring.jpg) [↩](#Scoring)
