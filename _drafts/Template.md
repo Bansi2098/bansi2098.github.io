@@ -9,10 +9,23 @@ Total: x hours
 - y h
 - z h
 
-# Yield
-x loaves
+Number of fougasse: <input type="number" min="1" max="10" id="numBread" value="2" placeholder = "2" onclick="calculateRecipe(this.value, this.placeholder)">
 
 # Ingredients
+<script> 
+  function calculateRecipe(numBread, defaultNumBread) 
+  { 
+  // The placeholders hold the quantity of that ingredient.
+  document.getElementById("flour").value = numBread / defaultNumBread * document.getElementById("flour").placeholder
+  document.getElementById("water").value = numBread / defaultNumBread * document.getElementById("water").placeholder
+  document.getElementById("salt").value = numBread / defaultNumBread * document.getElementById("salt").placeholder
+  document.getElementById("yeast").value = numBread / defaultNumBread * document.getElementById("yeast").placeholder
+  document.getElementById("olive_oil").value = numBread / defaultNumBread * document.getElementById("olive_oil").placeholder
+  document.getElementById("chopped_rosemary").value = numBread / defaultNumBread * document.getElementById("chopped_rosemary").placeholder
+  document.getElementById("chopped_sage").value = numBread / defaultNumBread * document.getElementById("chopped_sage").placeholder
+  document.getElementById("chopped_thyme").value = numBread / defaultNumBread * document.getElementById("chopped_thyme").placeholder
+  } 
+</script> 
 
 <table>
 <colgroup>
@@ -27,27 +40,33 @@ x loaves
 </thead>
 <tbody>
 <tr>
-<td markdown="span">550 g
+<td markdown="span"><input type="text" id="flour" name="All-purpose flour" placeholder="500" readonly> g
   </td>
-<td markdown="span">Bread flour
-  </td>
-</tr>
-<tr>
-<td markdown="span">400 g
-  </td>
-<td markdown="span">Room temp. water
+<td markdown="span">All-purpose flour
   </td>
 </tr>
 <tr>
-<td markdown="span">7 g (1 tsp)
+<td markdown="span"><input type="text" id="water" name="Warm water" placeholder="350" readonly> mL
+  </td>
+<td markdown="span">Warm water
+  </td>
+</tr>
+<tr>
+<td markdown="span"><input type="text" id="yeast" name="Active dry yeast" placeholder="7" readonly> g
+  </td>
+<td markdown="span">Yeast
+  </td>
+</tr>
+<tr>
+<td markdown="span"><input type="text" id="salt" name="Fine salt" placeholder="10" readonly> g
   </td>
 <td markdown="span">Fine salt
   </td>
 </tr>
 <tr>
-<td markdown="span">1 g (1/4 tsp)
+<td markdown="span"><input type="text" id="olive_oil" name="Olive oil" placeholder="10" readonly> g
   </td>
-<td markdown="span">Yeast
+<td markdown="span">Olive oil, plus more for topping the bread
   </td>
 </tr>
 </tbody>
