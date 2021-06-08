@@ -41,13 +41,13 @@ You will want 100 g of 100% hydration levain at its peak to begin this recipe. I
   </td>
 </tr>
 <tr>
-<td markdown="span">75 g
+<td markdown="span">50 g
   </td>
 <td markdown="span">Whole wheat flour
   </td>
 </tr>
 <tr>
-<td markdown="span">300 g
+<td markdown="span">300 + 25 g
   </td>
 <td markdown="span">Warm water (95F or 35C)
   </td>
@@ -66,7 +66,7 @@ Prepare:
 Make the levain in advance. Begin this recipe when it is 1 hour away from its peak.
 
 1. Autolyse the dough. What this means: mix all of the flour (400 g bread and 50 g WW) with all but 25 g of the water until there are no dry spots. Cover and leave for an hour.
-2. Incorporate the levain and salt. Fill a bowl with 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the 9 g salt. If your dough feels very wet, do not add all of the water.
+2. Incorporate the levain and salt. Fill a bowl with the remaining 25 g of water. Spread the levain over the dough with wet hands. Splash a bit of water over the levain and pinch the levain into the dough. Then do the same with the 9 g salt. If your dough feels very wet, do not add all of the water.
 3. Slap and fold the dough until it comes together.
 4. Cover and rest at around 78F/25C. Warm places for your dough to rest include: inside your oven with the light on, inside an oven that has been on for 30 seconds, in direct sunlight.
 5. Stretch and fold the dough 3 times at 30 minute intervals, starting 30 minutes after the last step.
