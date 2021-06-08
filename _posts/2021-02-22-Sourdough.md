@@ -9,6 +9,7 @@ Total: 24 hours
 - 6 h 40 m of bulk fermentation
 - Overnight proof in the refrigerator
 - 40-50 m bake
+
 You will want 100 g of 100% hydration levain at its peak to begin this recipe. I usually do an overnight feed.
 
 # Yield
